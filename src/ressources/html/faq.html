@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>FAQ</title>
+  <style>
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #9a9996;
+
+}
+
+h1 {
+  background-color: rgb(54,81,207);
+  color: rgb(154,153,150);
+  padding: 20px;
+  font-family: Georgia, serif;
+  font-size: 36px;
+  text-align: center;
+  margin: 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+h3 {
+  background-color:rgb(54,81,207);
+  color: #9a9996;
+  padding: 10px;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  margin: 20px 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+h4 {
+  background-color:rgb(54,81,207);
+  color: #9a9996;
+  padding: 10px;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  margin: 20px 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+  </style>
+</head>
+<body>
+  <h3>Qu'est-ce que le chiffrement par substitution ? (Définition)</h3>
+  <p>Le chiffrement par substitution est une méthode de cryptographie qui consiste à remplacer chaque lettre du texte en clair par une autre lettre, de manière à ce que le message chiffré ne puisse pas être compris sans avoir accès à une clé de déchiffrement.
+<br><br>
+Pour effectuer le chiffrement par substitution, on utilise une bijection entre les lettres du texte en clair et les lettres du texte chiffré. Cette bijection est généralement représentée par une table de correspondance appelée "tableau de substitution", qui permet de déterminer la lettre chiffrée correspondant à chaque lettre du texte en clair.</p>
+    <div style="text-align:center;margin-top:20px;margin-bottom:20px;">
+    <table>
+  		<tr>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+    <td>D</td>
+    <td>E</td>
+    <td>F</td>
+    <td>G</td>
+    <td>H</td>
+    <td>I</td>
+    <td>J</td>
+    <td>K</td>
+    <td>L</td>
+    <td>M</td>
+    <td>N</td>
+    <td>O</td>
+    <td>P</td>
+    <td>Q</td>
+    <td>R</td>
+    <td>S</td>
+    <td>T</td>
+    <td>U</td>
+    <td>V</td>
+    <td>W</td>
+    <td>X</td>
+    <td>Y</td>
+    <td>Z</td>
+  </tr>
+  <tr>
+
+    <td>Z</td>
+    <td>J</td>
+    <td>H</td>
+    <td>P</td>
+    <td>D</td>
+    <td>F</td>
+    <td>X</td>
+    <td>O</td>
+    <td>S</td>
+    <td>L</td>
+    <td>U</td>
+    <td>K</td>
+    <td>V</td>
+    <td>E</td>
+    <td>R</td>
+    <td>I</td>
+    <td>B</td>
+    <td>M</td>
+    <td>G</td>
+    <td>W</td>
+    <td>Y</td>
+    <td>A</td>
+    <td>T</td>
+    <td>N</td>
+    <td>Q</td>
+    <td>C</td>
+  </tr>
+</table>
+    <p style="font-style:italic;">Un exemple de tableau de subsititutions</p>
+    <p>Le mot "substitution" chiffré avec ce tableau donne "gyjgwswywsre"</p>
+    <p> </p>
+  </div>
+
+
+  <h3>Comment déchiffrer un message chiffré par substitution ?</h3>
+  <p>Le déchiffrement d'un message chiffré par substitution peut être cassé en effectuant des analyses de fréquences<br>
+	L'analyse fréquentielle consiste à étudier la fréquence d'apparition des différentes lettres dans le message chiffré.<br>
+	<br>
+En général, dans une langue donnée, certaines lettres ont une fréquence d'apparition plus élevée que d'autres. Par exemple, en français, la lettre "E" est la plus fréquente, suivie de près par les lettres "A" et "S".<br>
+ <br>
+En utilisant ces informations, il est possible de déduire certaines correspondances entre les lettres du texte chiffré et les lettres du texte en clair.
+<br>
+On commence par compter la fréquence d'apparition de chaque lettre dans le message chiffré.<br>
+Ensuite, on compare ces fréquences avec les fréquences d'apparition dans un texte de référence d'une langue choisie.<br>
+Les lettres du texte chiffré qui apparaissent le plus souvent sont alors supposées correspondre aux lettres les plus fréquentes de la langue en clair.<br>
+<br>
+Une fois qu'on a déterminé quelques correspondances, il est possible de les utiliser pour essayer de deviner le reste du message.
+
+
+</div>
+
+  </p>
+
+  <h3>Quand le chiffre par substitution a-t-il été inventé ?</h3>
+  <p>Il est probable que le chiffrement par substitution soit apparu peu de temps après l'invention de l'écriture.</p>
+  <br>
+
+  <h4>Exemple</h4>
+
+	Voici un exemple de phrase chiffré par substitution que vous pouvez essayer de casser! <br><br>
+	<div style="text-align:center;margin-top:20px;margin-bottom:20px;">
+	qf jgwed etplwswg - wswq dpfxw apf yeuw ld xwwy wexc - wswg xzttwwuwu aldpfzd pegu afgk.
+
+</body>
+</html>
