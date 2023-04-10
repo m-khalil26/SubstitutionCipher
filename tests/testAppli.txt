@@ -1,0 +1,127 @@
+Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais2,3 connu notamment pour avoir créé le noyau Linux en 1991 (à 21 ans).
+
+Il continue d'en diriger le développement, étant considéré comme le « dictateur bienveillant à vie » (Benevolent Dictator for Life) de celui-ci. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en).
+
+En 2012, il reçoit le prix Millennium Technology, décerné par la Technology Academy Finland (en) pour son travail sur Linux. Il est également lauréat en 2014 du Computer Pioneer Award, décerné par l'IEEE Computer Society.
+Biographie
+Jeunesse
+
+Linus Torvalds fait partie de la communauté des Finlandais suédophones (Finlandssvensk), une population représentant 6 % des habitants de la Finlande. Son père, Nils Torvalds, est journaliste de télévision et de radio et aussi membre actif du Parti populaire suédois (le parti des suédophones finlandais), élu député européen en 2012. Sa mère, Anna, est également journaliste4,5, et il compte parmi ses grands-parents le statisticien Leo Törnqvist6 et le poète Ole Torvalds7.
+
+Le prénom de Linus lui vient de Linus Pauling, chimiste américain récipiendaire du prix Nobel, mais Torvalds lui-même explique qu’il « pense avoir aussi été nommé d’après Linus, le personnage des Peanuts », ce qui le rend « à moitié chimiste nobélisé et à moitié personnage de BD portant une couverture »8.
+
+Il découvre l'informatique vers l’âge de 11 ans grâce à l'ordinateur de son grand-père, un Commodore VIC-209.
+Un Commodore VIC-20.
+Études
+
+Torvalds étudie à l’université d’Helsinki entre 1988 et 199610, où il obtient un diplôme de master en informatique, auprès du groupe de recherche NODES. Sa carrière académique connaît une interruption lorsqu’il part effectuer son service militaire (obligatoire en Finlande). Il rejoint la brigade d’Uusimaa de l’armée finlandaise à l’été 1989, et sert onze mois, au rang de sous-lieutenant, chargé des calculs balistiques11.
+
+En reprenant ses études en 1990, il est amené à travailler avec un ordinateur DEC MicroVax sous Ultrix, ce qui constitue ses premiers contacts avec Unix12. Après le Commodore VIC-20, il utilise un ordinateur Sinclair QL, dont il modifie le système d’exploitation ; il écrit un éditeur, un assembleur13, et quelques jeux14 (ainsi que des bibliothèques graphiques pour Pac-Man)13.
+
+Inspiré par le système Minix développé par Andrew S. Tanenbaum, il développe un noyau de système d'exploitation15 pour tirer pleinement parti des fonctionnalités de son nouvel ordinateur personnel, un compatible PC doté d'un microprocesseur Intel 8038616. Ce noyau est celui du système d'exploitation GNU/Linux, sous licence GPL, et constitue sa thèse de master, intitulée Linux: A Portable Operating System17.
+Carrière
+
+Après avoir quitté l'Université d'Helsinki, il travaille de février 1997 à juin 2003 chez Transmeta, une société de la Silicon Valley qui fabrique des microprocesseurs à faible consommation électrique. Chez Transmeta, il est autorisé à consacrer une partie de son temps au développement du noyau Linux.
+
+Il entre en 2003 aux Open Source Development Labs (intégrés en 2007 à la Fondation Linux) et s'installe à Beaverton dans l'Oregon (États-Unis)18 avec sa famille.
+
+Depuis, il se consacre principalement à diriger l'équipe de développement du noyau de Linux, en tant que « dictateur bienveillant ». Son comportement notoirement intransigeant, franc et direct, s'il est évoqué comme une raison de la qualité du projet, le conduit toutefois à présenter des excuses publiques et à faire une pause en 201819.
+
+Contrairement à la majorité des adeptes du logiciel libre, Linus Torvalds reste relativement discret et refuse généralement de commenter les avantages et inconvénients des autres systèmes d'exploitation, comme le système Windows de Microsoft. Il réagit en revanche avec vigueur lorsque l'on remet en cause les qualités techniques du noyau Linux. Sa discussion houleuse avec Andrew S. Tanenbaum, opposant les noyaux Minix et Linux sur un choix de conception central (micro-noyau contre noyau monolithique), est d'ailleurs restée un exemple célèbre20.
+
+Il a également créé en avril 200521 le logiciel de gestion de versions Git, initialement prévu pour le développement du noyau Linux.
+
+En septembre 2009, évoquant lors d'une intervention à la LinuxCon (en) le développement du noyau Linux, il déclare : « Nous n'avons certainement pas le noyau léger et hyper efficace envisagé lorsque j'ai commencé à développer le noyau Linux »22.
+
+En 2017, lors de l'Open Source Leadership Summit organisé par Jim Zemlin, le dirigeant de la Fondation Linux, il affirme que « Les discours sur l’innovation de l’industrie sont des conneries [bullshit] […] n’importe qui peut innover, "penser différemment", c’est vide de sens. 99 % de l’innovation provient du travail réalisé […] Tout ce tapage est loin du travail réel. Ce dernier se mesure dans les détails […] les projets qui réussissent, c’est 99 % de transpiration et 1 % d’innovation »23.
+Vie personnelle
+Linus Torvalds en 2002.
+
+Linus Torvalds est marié à Tove Torvalds (née Monni), sextuple championne nationale finlandaise de karaté, qu'il a rencontrée pour la première fois à l'automne 1993. Linus faisait des exercices préliminaires en laboratoire informatique pour les étudiants et demandait aux participants du cours de lui envoyer un courriel comme test, auquel Tove répondit par un courriel demandant un rendez-vous24.
+
+Tove et Linus se marient plus tard et ont trois filles, Patricia Miranda (née en 1996), Daniela Yolanda (née en 1998) et Céleste Amanda (née en 2000)25, dont deux sont nées aux États-Unis3. L'appel système de redémarrage du noyau Linux accepte leurs dates de naissance (écrites en hexadécimal) comme des valeurs magiques.
+
+En septembre 2010, il obtient la nationalité américaine2,26.
+Travail sur le noyau Linux
+Débuts du développement
+Cette section ne cite pas suffisamment ses sources (novembre 2016). 
+
+Le développement du noyau Linux trouve son origine au début des années 1990. Linus Torvalds était alors étudiant à l'université d'Helsinki, et par pur plaisir, s'était procuré une machine dotée d'un processeur Intel 8038616, l'un des premiers à avoir un jeu d'instruction 32 bits accessible au grand public. Il se procura la documentation relative à ce processeur et le système d'exploitation Minix avec le livre d'Andrew Tanenbaum sur les systèmes d'exploitation pour profiter des performances de sa machine et acquérir de nouvelles compétences sur les systèmes Unix. Cependant, Linus Torvalds trouvait l'émulateur de terminal de Minix trop rudimentaire, comme d'autres choses dans ce système. Il décida donc d'écrire un émulateur de terminal, notamment pour accéder aux machines de l'université.
+
+Cet émulateur de terminal prit de l'importance et commença peu à peu à remplacer Minix au sein de son ordinateur. Cependant, à la suite d'une erreur de manipulation, il détruisit la partition contenant Minix et prit la décision de tout continuer sur cet émulateur de terminal. Au bout de quelques mois, ce logiciel devint un véritable noyau de système d'exploitation. Il décida de l'appeler Freax : freak pour sa bizarrerie et x pour Unix. Il diffusa le code de son travail à quelques privilégiés au début, dont Ari Lemmke, qui lui ouvrit un compte FTP sur le site de l'université pour diffuser quand il voudrait son travail. Cependant, ce dossier de stockage fut nommé « Linux » et ce nom a été conservé depuis27.
+
+Torvalds publia les premiers prototypes de Linux en 19918, et diffusa le 25 août 1991 un message sur Usenet, désormais célèbre, annonçant la naissance d'un OS de sa part, et indiquant qu'il souhaitait à terme des contributions28. À la diffusion quelques semaines plus tard, le noyau Linux n'était pas un logiciel libre, juste un logiciel dont Linus Torvalds permettait la distribution gratuite et le report de bogues. Ce n'est que quelques années plus tard que Linus Torvalds rendit Linux libre, quand il sentit que la popularité du noyau Linux le rendait indissociable de son créateur et qu'il ne courrait pas le risque de « perdre » son bébé. Les rapports de bogues donnèrent à Linus une raison de poursuivre le développement du noyau Linux jusqu'à aujourd'hui car il aime les énigmes posées par le développement logiciel.
+
+Mais au début du développement, il monopolisait la partie de Usenet dédiée à Minix, ce qui irrita son concepteur Andrew S. Tanenbaum, d'autant qu'il trouvait le noyau Linux techniquement obsolète. En effet, ce professeur de l'université d'Amsterdam était spécialisé dans la conception de systèmes d'exploitation. Minix était prévu pour permettre à un étudiant de comprendre rapidement son fonctionnement, et pour Tanenbaum, les noyaux des systèmes d'exploitation devaient être du type micro-noyau, à l'opposé du noyau dit monolithique autour duquel fut développé Linux à l'origine. Ce débat technique donna lieu à de nombreuses réponses houleuses des deux créateurs et est resté célèbre.
+
+À la suite d'un dépôt de nom par un particulier, qui menaça les entreprises utilisant le nom « Linux » de reverser des royalties, un accord à l'amiable fut trouvé, dont Linus dit ignorer les détails, et déclare que même s'il les connaissait il ne pourrait pas légalement les révéler. Soucieuse d'éviter qu'une telle mésaventure ne se reproduise, la communauté Linux se tourna vers son créateur d'origine afin qu'il endosse lui-même la responsabilité légale du nom du système d'exploitation 5. En 1996, la communauté voulait une mascotte pour identifier Linux. Après des semaines de réflexion, Linus proposa un concours de dessin mettant en scène un manchot29 car c'est un animal qu'il appréciait et qui était vif et robuste30 (expérience qu'il a faite après avoir été mordu par un manchot dans un zoo en Australie). Le vainqueur fut Larry Ewing qui a fait le dessin à l'aide du logiciel libre GIMP. Le manchot prit le nom de Tux. Tux fut remplacé une seule fois pour le noyau 2.6.29 par Tuz qui est un diable de Tasmanie en guise de soutien financier (lié à une campagne de dons) pour sauver ces animaux d'une épidémie.
+Essor de GNU/Linux
+Cette section ne cite pas suffisamment ses sources (novembre 2016). 
+
+Au milieu des années 1990, la popularité de Linux fut exponentielle parmi les hackers. Les batailles juridiques entre BSD et AT&T et les retards de HURD firent de Linux le noyau libre le plus connu et le plus utilisé. Par la même occasion, le succès inattendu de Linux rendit Linus célèbre dans le mouvement des logiciels libres. Ce fut l'une des preuves de la réussite de ce mouvement. Pourtant, contrairement à Richard Stallman, Linus ne met pas en avant les bénéfices « politiques » (en termes de liberté) du logiciel libre, mais les avantages pratiques de cette liberté, à savoir la communauté de développeurs pour produire le meilleur logiciel possible, cela rendant les dialogues avec Richard Stallman très difficiles car ils ne voient pas les choses sous le même angle. Cependant, en 1998, le terme OpenSource popularisé par Eric Raymond convint parfaitement à Linus. La libération du code de Netscape pour donner Mozilla, le support de GNU/Linux par IBM et Oracle, et l'introduction en bourse des entreprises vendant du support pour GNU/Linux en pleine bulle Internet firent de Linus un millionnaire potentiel mais aussi un véritable gourou pour un nouveau système économique et un adversaire des entreprises comme Microsoft. Il fit ainsi la une des journaux économiques comme Forbes.
+
+Durant cette période, en 1997, il déménagea de son pays natal vers la Californie dans la Silicon Valley pour prendre un emploi chez Transmeta. Peu avant le déménagement, il finit ses études à l'université d'Helsinki à l'aide de sa thèse de master qu'il avait écrite rapidement concernant la portabilité de Linux. Ce changement d'employeur, à savoir d'une université à une entreprise dont on ignorait à l'époque les projets, faisait planer le doute sur l'avenir du développement de Linux au sein de la communauté et sur le rapport de Linus avec l'argent. Il refusa les postes des entreprises développant Linux comme Red Hat pour ne pas favoriser le développement de certaines technologies dans le noyau ou une distribution par rapport à d'autres. En juin 2003, il rejoignit la Linux Fondation pour se consacrer à Linux à plein temps.
+
+Longtemps contre l'utilisation de logiciel de gestion de version, il utilisa en 2002, pour Linux, le logiciel BitKeeper, qui est propriétaire. La communauté, par exemple Richard Stallman ou Alan Cox pour les plus emblématiques, réagit négativement car cela remettait en cause l'éthique du logiciel libre au sein du projet. En 2005, la société qui fournissait BitKeeper ayant retiré la version gratuite, Linus fut forcé de développer un logiciel maison — Git — pour le remplacer rapidement et l'adapter aux besoins du projet.
+Conflits
+
+Torvalds est connu pour être en désaccord avec les autres développeurs sur la liste de diffusion du noyau Linux31. Se qualifiant de « personne vraiment désagréable », il a expliqué : « J'aimerais être une personne sympathique et jurer moins et encourager les gens à se développer plutôt que de leur dire qu'ils sont des idiots. Je suis désolé - j'ai essayé, mais ce n'est pas en moi »32,33. Son attitude, qu'il juge nécessaire pour faire valoir ses arguments, a suscité des critiques de la part de Sage Sharp, programmeur chez Intel, et de Lennart Poettering, développeur de systemd, entre autres34,35.
+
+Le dimanche 16 septembre 2018, le code de conflit du noyau Linux a été soudainement remplacé par un nouveau code de conduite basé sur le contributor covenant. Peu après, dans les notes de publication de Linux 4.19-rc4, Torvalds s'est excusé pour son comportement, qualifiant ses attaques personnelles du passé de «non professionnelles et injustifiées» et a annoncé une période de congé pour «obtenir de l'aide sur la façon de comprendre les émotions des gens et de répondre de manière appropriée». Il est rapidement apparu que ces événements faisaient suite à une série de questions critiques sur la conduite de Torvalds, posées par le New Yorker36,35,37. Après la publication de Linux 4.19 le 22 octobre 2018, Linus a repris la maintenance du noyau.
+Publications
+
+    Linus Torvalds, David Diamond : Just for Fun: The Story of an Accidental Revolutionary, New York, HarperBusiness, 2001, (ISBN 978-0-06-662072-5). Ce livre a été traduit en français :
+        Linus Torvalds avec David Diamond : Il était une fois Linux : L'extraordinaire histoire d'une révolution accidentelle, OEM, 2001, (ISBN 978-2-7464-0321-5).
+    Linus Torvalds, David Diamond : Linux, c'est gratuit ! Mais aidez-moi à l'installer, 2010, (ISBN 978-2-211-09589-1)
+
+Distinctions
+
+    Les astéroïdes (9793) Torvalds et (9885) Linux ont été nommés en son honneur : le code source de Linux ayant été mis à disposition dès sa création, il fut utilisé par différents systèmes de mesure, de détection et d'analyse d'astéroïdes.
+    En juin 2012, il reçoit le prix Millennium Technology de l'académie de technologie de Finlande pour son travail sur Linux38,39.
+    En 2012, il est admis au temple de la renommée d'internet dans la catégorie des « innovateurs ».
+    En 2014, il reçoit le prix IEEE Computer Society Computer Pioneer Award40.
+
+Notes et références
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Linus Torvalds » (voir la liste des auteurs).
+
+« http://www.computerhistory.org/collections/catalog/102658325 » [archive] (consulté le 3 janvier 2017)
+Antoine Duvauchelle, « Linus Torvalds devient citoyen américain » [archive], sur Clubic.com, 15 septembre 2010.
+(en) Mike Rogoway, « Linus Torvalds, already an Oregonian, now a U.S. citizen » [archive], sur Oregon Live, 14 septembre 2010.
+Il était une fois Linux, Linus Torvalds, Osman Eyrolles Mulmtimedia, 2001, page 38.
+Linus Torvalds, Just for fun : the story of an accidental revolutionary, HarperBusiness, 2001 (ISBN 0-06-662072-4, OCLC 45610395, lire en ligne [archive]).
+(en) Maury Peiperl, Michael Bernard Arthur et N. Anand, Career Creativity : Explorations in the Remaking of Work, Oxford University Press, 2002, 351 p. (ISBN 978-0-19-924872-8, lire en ligne [archive])
+(en) Mohammad Bahareth, Kings of the Internet : What You Don't Know About Them ?, iUniverse, avril 2012, 228 p. (ISBN 978-1-4697-9842-4, lire en ligne [archive])
+(en) Moody Glyn., Rebel code : the inside story of Linux and the open source revolution, Perseus Pub, 2001 (ISBN 0-7382-0670-9, OCLC 45771410, lire en ligne [archive]), p. 336
+Il était une fois Linux, Linus Torvalds, Osman Eyrolles Mulmtimedia, 2001, page 29.
+Torvalds et Diamond 2001, p. 38, 94
+Torvalds et Diamond 2001, p. 29
+Torvalds et Diamond 2001, p. 53
+(en) Ellen Ko, « Geek Time with Linus Torvalds » [archive], sur Google Open Source Blog, 27 septembre 2010 (consulté le 2 novembre 2017)
+Torvalds et Diamond 2001, p. 41-16
+Texte intégral de Naissance de Linux [archive] sur Wikisource
+, source, site d’A. W. Black [archive].
+(en) « Linux News » [archive], 5 janvier 1991 (consulté le 2 novembre 2017)
+« Staff | The Linux Foundation », 19 avril 2009 (version du 19 avril 2009 sur l'Internet Archive)
+« Linus Torvalds, Incognito Inventor | OregonLive.com », archive.is,‎ 9 juillet 2014 (lire en ligne [archive du 9 juillet 2014], consulté le 4 novembre 2017)
+« Linux : Linus Torvalds fait une pause pour corriger son attitude » [archive], sur zdnet.fr, 17 septembre 2018 (consulté le 30 septembre 2018).
+(en) « Linux is obsolete » [archive], Andrew S. Tanenbaum, groups.google.com, 29 janvier 1992.
+« Index of /pub/software/scm/git/ » [archive], sur www.kernel.org (consulté le 16 avril 2017).
+« Torvalds : « Linux est devenu énorme et effrayant » » [archive], Clubic.com, 22 septembre 2009.
+« Linus Torvalds remballe les discours sur l’innovation » [archive], Jacques Cheminat, Silicon.fr, 17 février 2017.
+(en) Moody Glyn, Rebel code : the inside story of Linux and the open source revolution, Perseus Books Group, 2001 (ISBN 0-7382-0670-9), p. 336.
+(en) « Linus Torvalds » [archive], sur nndb.com (consulté le 25 novembre 2017).
+(en) « Linus Torvalds, already an Oregonian, now a U.S. citizen » [archive], sur oregaonlive.com, 14 septembre 2010
+(en) « The Greatest OS That (N)ever Was », Wired.com,‎ 8 janvier 1997 (lire en ligne [archive])
+(en) « Annonce sur comp.os.minix (Usenet) » [archive], sur groups.google.com, 25 juillet 1991 (consulté le 4 novembre 2017)
+« Linux-Kernel Archive: Re: Linux Logo prototype. », archive.is,‎ 30 mai 2012 (lire en ligne [archive du 30 mai 2012], consulté le 4 novembre 2017)
+« Linux Online - Why Linus Chose a Penguin », 13 janvier 2007 (version du 13 janvier 2007 sur l'Internet Archive)
+(en) « The Creator of Linux on the Future Without Him », Bloomberg.com,‎ 16 juin 2015 (lire en ligne [archive], consulté le 17 mai 2022)
+(en) Simon Sharwood, « Buggy? Angry? LET IT ALL OUT says Linus Torvalds » [archive], sur www.theregister.com (consulté le 17 mai 2022)
+(en) Gavin Clarke, « Torvalds: I want to be nice, and curse less, but it's just not in me » [archive], sur www.theregister.com (consulté le 17 mai 2022)
+(en) « Lennart Poettering: Open Source Community » [archive], sur news.slashdot.org (consulté le 17 mai 2022)
+(en) Jon Gold, « Linux community acts after years of complaints like Sarah Sharp's » [archive], sur Network World, 21 septembre 2018 (consulté le 17 mai 2022)
+« Linux 4.19-rc4 released, an apology, and a maintainership note - Linus Torvalds » [archive], sur lore.kernel.org (consulté le 17 mai 2022)
+(en-US) Condé Nast, « After Years of Abusive E-mails, the Creator of Linux Steps Aside » [archive], sur The New Yorker, 19 septembre 2018 (consulté le 17 mai 2022)
+« Linus Torvalds reçoit le prix Millennium Technology pour Linux » [archive], sur 01net.com, 15 juin 2012 (consulté le 26 janvier 2023)
+(en) « Stem cell pioneer and open source software engineer are 2012 Millennium Technology Prize laureates », sur technologyacademy.fi (lien archivé) (consulté le 25 novembre 2017).
+(en) « Linus Torvalds Named Recipient of the 2014 IEEE Computer Society Computer Pioneer Award » [archive], sur IEEE Computer Society (consulté le 25 novembre 2017).
